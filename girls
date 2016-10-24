@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>girls</title>
+		<link rel="stylesheet" type="text/css" href="css/mui.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/pulic.css"/>
+		<link rel="stylesheet" type="text/css" href="css/free.css" />
+	    <script src="js/mui.min.js"></script>
+	    <script type="text/javascript"src="js/index.js" ></script>
+	    <script type="text/javascript" charset="utf-8">
+      		mui.init();
+    	</script>
+	</head>
+	<body>
+		<script>document.body.style.height=view().h+"px";</script>
+		<div class="free-zone">
+			<div class="free-header">
+				<a href="index.html" class="free-return fl"></a>
+				<span>女生频道</span>
+				<a href="index.html" class="free-home fr"></a>
+			</div>
+			<div class="free-main">
+				<section class="girls-follow">
+					<div class="free-title">
+						<h4 class="title-subtitle height">最受关注</h4>
+					</div>
+					<ul>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f7.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">傲女狂妃</h4>
+								<p class="hot-info">一朝穿越，反遇退婚，尊为嫡女竟然只会忍气吞声。原来其中大有不为人知的秘密</p>
+								<em class="hot-writer">奶声奶气</em><br />
+								<span class="hot-label">穿越时空</span><span class="hot-label">傲女狂妃</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f8.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">极品相师</h4>
+								<p class="hot-info">一命二运三风水，环环相扣，冥冥牵引，风水改变命运，命运影响风水</p>
+								<em class="hot-writer">九阳真人</em><br />
+								<span class="hot-label">命理轮回</span><span class="hot-label">极品相师</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f9.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">独宠神秘新娘</h4>
+								<p class="hot-info">一朝穿越，成了半人半僵。但还没来得及搞清楚现状，就被</p>
+								<em class="hot-writer">残阳半影</em><br />
+								<span class="hot-label">热血都市</span><span class="hot-label">独宠神秘新娘</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f10.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">绝世弃主</h4>
+								<p class="hot-info">屌丝逆袭三绝技，透视、穿墙、读心术？不！这些都是</p>
+								<em class="hot-writer">九龙在天</em><br />
+								<span class="hot-label">热血都市</span><span class="hot-label">绝世弃主</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f11.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">重生之锦绣商途</h4>
+								<p class="hot-info">前世她被庶姐与丈夫迫害而死，今生她挟怨重获新生。看商道，人道，无间道，她如何重生</p>
+								<em class="hot-writer">夜雨夜话</em><br />
+								<span class="hot-label">穿越时空</span><span class="hot-label">重生之锦绣商途</span>
+							</div>
+						</li>
+					</ul>
+					<a class="more" href="">查看更多</a>
+				</section>
+				<section class="girls-recommend">
+					<div class="free-title">
+						<h4 class="title-subtitle height">主编推荐</h4>
+					</div>
+					<ul>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f7.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">傲女狂妃</h4>
+								<p class="hot-info">一朝穿越，反遇退婚，尊为嫡女竟然只会忍气吞声。原来其中大有不为人知的秘密</p>
+								<em class="hot-writer">奶声奶气</em><br />
+								<span class="hot-label">穿越时空</span><span class="hot-label">傲女狂妃</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f8.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">极品相师</h4>
+								<p class="hot-info">一命二运三风水，环环相扣，冥冥牵引，风水改变命运，命运影响风水</p>
+								<em class="hot-writer">九阳真人</em><br />
+								<span class="hot-label">命理轮回</span><span class="hot-label">极品相师</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f9.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">独宠神秘新娘</h4>
+								<p class="hot-info">一朝穿越，成了半人半僵。但还没来得及搞清楚现状，就被</p>
+								<em class="hot-writer">残阳半影</em><br />
+								<span class="hot-label">热血都市</span><span class="hot-label">独宠神秘新娘</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f10.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">绝世弃主</h4>
+								<p class="hot-info">屌丝逆袭三绝技，透视、穿墙、读心术？不！这些都是</p>
+								<em class="hot-writer">九龙在天</em><br />
+								<span class="hot-label">热血都市</span><span class="hot-label">绝世弃主</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f11.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">重生之锦绣商途</h4>
+								<p class="hot-info">前世她被庶姐与丈夫迫害而死，今生她挟怨重获新生。看商道，人道，无间道，她如何重生</p>
+								<em class="hot-writer">夜雨夜话</em><br />
+								<span class="hot-label">穿越时空</span><span class="hot-label">重生之锦绣商途</span>
+							</div>
+						</li>
+					</ul>
+					<a class="more" href="">更多主编推荐</a>
+				</section>
+				<section class="girls-newbook">
+					<div class="free-title">
+						<h4 class="title-subtitle height">在线新书</h4>
+					</div>
+					<ul>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f20.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">首席独宠小萌妻</h4>
+								<p class="hot-info">初次见面，她遇到渣男收了她的高跟鞋，她光脚进了公司，成了公司</p>
+								<em class="hot-writer">薄情姑娘</em><br />
+								<span class="hot-label">总裁世家</span><span class="hot-label">首席独宠小萌妻</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f21.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">超级低手</h4>
+								<p class="hot-info">一个是蛮横、霸道，整日里砍砍杀杀的黑帮大小姐，一个是温文尔雅的</p>
+								<em class="hot-writer">红杏不出墙</em><br />
+								<span class="hot-label">热血都市</span><span class="hot-label">超级低手</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f22.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">我的女友是神婆</h4>
+								<p class="hot-info">毕业后把同校的女生追到了手，女神却在深夜用菜刀给男</p>
+								<em class="hot-writer">小白菜</em><br />
+								<span class="hot-label">灵异悬疑</span><span class="hot-label">我的女友是神婆</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f23.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">护美小农民</h4>
+								<p class="hot-info">功夫打混混，医术救美女，奇术生万物，法术驱妖魔，功夫</p>
+								<em class="hot-writer">唐皇世家</em><br />
+								<span class="hot-label">热血都市</span><span class="hot-label">护美小农民</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f24.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">危险前妻</h4>
+								<p class="hot-info">一场国外之旅，却成了她所有屈辱与悲剧的开始。是继母的心狠手辣，</p>
+								<em class="hot-writer">子月孤灯</em><br />
+								<span class="hot-label">现代言情</span><span class="hot-label">危险前妻</span>
+							</div>
+						</li>
+					</ul>
+					<a class="more" href="">更多新书抢鲜读</a>
+				</section>
+				<section class="girls-endbook">
+					<div class="free-title">
+						<h4 class="title-subtitle height">完结好书</h4>
+					</div>
+					<ul>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f20.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">首席独宠小萌妻</h4>
+								<p class="hot-info">初次见面，她遇到渣男收了她的高跟鞋，她光脚进了公司，成了公司</p>
+								<em class="hot-writer">薄情姑娘</em><br />
+								<span class="hot-label">总裁世家</span><span class="hot-label">首席独宠小萌妻</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f21.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">超级低手</h4>
+								<p class="hot-info">一个是蛮横、霸道，整日里砍砍杀杀的黑帮大小姐，一个是温文尔雅的</p>
+								<em class="hot-writer">红杏不出墙</em><br />
+								<span class="hot-label">热血都市</span><span class="hot-label">超级低手</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f22.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">我的女友是神婆</h4>
+								<p class="hot-info">毕业后把同校的女生追到了手，女神却在深夜用菜刀给男</p>
+								<em class="hot-writer">小白菜</em><br />
+								<span class="hot-label">灵异悬疑</span><span class="hot-label">我的女友是神婆</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f23.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">护美小农民</h4>
+								<p class="hot-info">功夫打混混，医术救美女，奇术生万物，法术驱妖魔，功夫</p>
+								<em class="hot-writer">唐皇世家</em><br />
+								<span class="hot-label">热血都市</span><span class="hot-label">护美小农民</span>
+							</div>
+						</li>
+						<li class="hot-li clear" >
+							<div class="hot-pic fl">
+								<img src="img/f24.jpg" alt="" />
+							</div>
+							<div class="hot-font fl">
+								<h4 class="hot-subtitle">危险前妻</h4>
+								<p class="hot-info">一场国外之旅，却成了她所有屈辱与悲剧的开始。是继母的心狠手辣，</p>
+								<em class="hot-writer">子月孤灯</em><br />
+								<span class="hot-label">现代言情</span><span class="hot-label">危险前妻</span>
+							</div>
+						</li>
+					</ul>
+				</section>
+			</div>
+		</div>
+	</body>
+</html>
