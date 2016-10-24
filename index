@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <title>index</title>
+    <link rel="stylesheet" type="text/css" href="css/mui.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/pulic.css" />
+    <link rel="stylesheet" type="text/css" href="css/index.css"/>
+    <script src="js/mui.min.js"></script>
+    <script type="text/javascript"src="js/index.js" ></script>
+    <script type="text/javascript" charset="utf-8">
+      	mui.init();
+    </script>
+</head>
+<body>
+	<script>document.body.style.height=view().h+"px";</script>
+	<div class="container">
+		<div class="header clear">
+			<div class="header-tags fl checkin">
+				<span class="fl tf" ><img src="img/sign.png"/></span>
+			</div>
+			<div class="header-classify fl">
+				<a class="active " id="bookcity">书城</a>
+				<a id="bookshelf">书架</a>
+			</div>
+			<div class="header-tags fl user ">
+				<span class="fr tr"><img src="img/user.png" /></span>
+			</div>
+		</div>
+		<div class="content">
+			<div class="content-bookcity" id="wrapBookCity">
+						<section class="nav">
+							<div class="nav-seach">
+								<input type="search" value="输入书名/作者/关键字"/>
+							</div>
+							<div class="nav-banner">
+								<div class="banner-paly">
+									<a href="#"><img src="img/banner1.jpg"/></a>
+									<a href="#"><img src="img/banner2.jpg"/></a>
+									<a href="#"><img src="img/banner3.jpg"/></a>
+								</div>
+							</div>
+							<ul class="nav-btns clear">
+								<li><a href="free.html"><span><img src="img/free.png"/></span><p>免费</p></a></li>
+								<li><a href="boys.html"><span><img src="img/boy.png"/></span><p>男生</p></a></li>
+								<li><a href="girls.html"><span><img src="img/girl.png"/></span><p>女生</p></a></li>
+								<li><a href="classify.html"><span><img src="img/classify.png"/></span><p>分类</p></a></li>
+								<li><a href="ranking.html"><span><img src="img/ranking.png"/></span><p>排行</p></a></li>
+							</ul>
+						</section>
+						<section class="hot">
+							<h3 class="title">本周最火</h3>
+							<ul class="main">
+								<li class="part clear">
+									<div class="img fl">
+										<img src="img/1.jpg" />
+										<p class="form">完结</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">强欢逃妻，总裁玩够没</h4>
+										<em class="author">梨上雪</em>
+										<p class="info">潘鑫雅顶替姐姐嫁给莫氏总裁，从此豪门深深、深闺院锁，新婚半月，新郎一出现确实带着别的</p>
+										<span class="label">总裁世家</span><span class="label">187万字</span>
+									</div>
+								</li>
+								<li class="part clear">
+									<div class="img fl">
+										<img src="img/2.jpg" />
+										<p class="form">完结</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">美女总裁的进身保镖</h4>
+										<em class="author">油菜花</em>
+										<p class="info">神级杀手回都市，一为敌人血；二为美女的胸......怀！喂......御姐总裁，你的节操</p>
+										<span class="label">都市情缘</span><span class="label">御姐控</span><span class="label">340万字</span>
+									</div>
+								</li>
+								<li class="part clear">
+									<div class="img fl">
+										<img src="img/3.jpg" />
+										<p class="form">完结</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">婚然心动：甜妻限时购</h4>
+										<em class="author">柚子蜜</em>
+										<p class="info">惨遭未婚夫劈腿，她被逼嫁给一个“一穷二白”的男人。人前，他是三无人员：无车，无房，无钱。</p>
+										<span class="label">现代言情</span><span class="label">125万字</span>
+									</div>
+								</li>
+							</ul>
+							<div class="footer">
+								<a class="footerbtn" href="#">换一换</a>
+								<a class="footerbtn" href="#">看全部</a>
+							</div>
+						</section>
+						<section class="recommend">
+							<h3 class="title">重磅推荐
+								<sup class="up">荐</sup>
+							</h3>
+							<ul class="main">
+								<li class="part clear">
+									<div class="img fl">
+										<img src="img/4.jpg" />
+										<span class="one">1</span>
+										<p class="form">连载</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">权财</h4>
+										<em class="author">马上斐</em>
+										<p class="info">一次意外，让他获得操控时间的能力。BACK：后退时间，STOP：停止时间。手握大权的他</p>
+										<span class="label">权谋</span><span class="label">穿越</span><span class="label">580万字</span>
+									</div>
+								</li>
+								<li class="part list">
+									<span class="number">02</span>
+									<p class="name">宦海纵横
+										<em class="writer">方子莫</em>
+									</p>
+								</li>
+								<li class="part list">
+									<span class="number">03</span>
+									<p class="name">绝品透视眼
+										<em class="writer">一人品酒</em>
+									</p>
+								</li>
+								<li class="part list">
+									<span class="number">04</span>
+									<p class="name">白菜小农民
+										<em class="writer">开心土豆</em>
+									</p>
+								</li>
+								<li class="part list">
+									<span class="number">05</span>
+									<p class="name">魔兽剑圣异界纵横
+										<em class="writer">天蚕大师</em>
+									</p>
+								</li>
+							</ul>
+							<div class="footer">
+								<a class="footerbtn" href="#">换一换</a>
+								<a class="footerbtn" href="#">看全部</a>
+							</div>
+						</section>
+						<section class="girls">
+							<h3 class="title">女生最爱</h3>
+							<ul class="main">
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/5.jpg" />
+										<p class="form">完结</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">前夫，求复婚</h4>
+										<em class="author">夜深幽</em>
+										<p class="info">他找她结一段权宜婚姻，婚内三年不层碰她，她却突然怀孕了。***初见他，他站在窗边，</p>
+										<span class="label">总裁世家</span><span class="label">263万字</span>
+									</div>
+								</li>
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/6.jpg" />
+										<p class="form">完结</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">一妃冲天，王爷请抓牢</h4>
+										<em class="author">木古首</em>
+										<p class="info">她，21世纪的天才催眠师，穿越千年成为相府备受冷落的三小姐。他，只剩一年的阳寿，灯枯油尽</p>
+										<span class="label">穿越时空</span><span class="label">古装</span><span class="label">153万字</span>
+									</div>
+								</li>
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/7.jpg" />
+										<p class="form">完结</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">教官的特工宠妻</h4>
+										<em class="author">韶华落尽</em>
+										<p class="info">幕欢欢国家级的机密特工，执行任务那么一不小心就认错了人，没拿到情报也罢，结果一不小心</p>
+										<span class="label">都市高干</span><span class="label">言情</span><span class="label">328万字</span>
+									</div>
+								</li>
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/8.jpg" />
+										<p class="form">完结</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">胖妃倾城，魔君好难缠</h4>
+										<em class="author">于华峰</em>
+										<p class="info">穿越重生异大陆，爹爹不爱，娘亲病危，偏又声明狼藉！为救母，求毒医，一纸交易坠入</p>
+										<span class="label">奇情穿越</span><span class="label">154万字</span>
+									</div>
+								</li>
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/9.jpg" />
+										<p class="form">完结</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">名门夫人宠妻成瘾</h4>
+										<em class="author">风子蓝</em>
+										<p class="info">她，蓝氏集团的二千金，落入男友结婚新娘不是她的俗套中，他千钧集团总裁，身家千亿</p>
+										<span class="label">名门豪族</span><span class="label">爱情</span><span class="label">228万字</span>
+									</div>
+								</li>
+							</ul>
+							<div class="footer">
+								<a class="footerbtn" href="#">换一换</a>
+								<a class="footerbtn" href="#">女生频道>></a>
+							</div>
+						</section>
+						<section class="boys">
+							<h3 class="title">男生最爱</h3>
+							<ul class="main">
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/10.jpg" />
+										<p class="form">连载</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">我的绝色美女老婆</h4>
+										<em class="author">无三爻</em>
+										<p class="info">战狼之王被国际通缉，被迫回归都市，做起一名小保镖。“喂......，总裁大人，我可是一个又尊严...”</p>
+										<span class="label">都市生活</span><span class="label">240万字</span>
+									</div>
+								</li>
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/11.jpg" />
+										<p class="form">连载</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">面位成神之虚空戒</h4>
+										<em class="author">开口禅</em>
+										<p class="info">一花一世界，一叶一菩提，佛说“一粒沙子中有三千大世界。”辛寒没有捡到一粒沙子，他捡到一粒</p>
+										<span class="label">科幻</span><span class="label">轻松</span><span class="label">150万字</span>
+									</div>
+								</li>
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/12.jpg" />
+										<p class="form">连载</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">透视邪医</h4>
+										<em class="author">寒冰木</em>
+										<p class="info">轩辕大陆的天纵奇才修仙者秦阳，穿越到了地球上一个小流氓身上，从此开始了一段人间的花花故事</p>
+										<span class="label">异术超能</span><span class="label">257万字</span>
+									</div>
+								</li>
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/13.jpg" />
+										<p class="form">连载</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">最强狂暴升级</h4>
+										<em class="author">清木子</em>
+										<p class="info">手握诛仙剑，肩扛盘古斧，身穿九霄甲，脚踏彩云鞋，踩尽诸天天才，我的目标是</p>
+										<span class="label">王朝争霸</span><span class="label">玄幻</span><span class="label">413万字</span>
+									</div>
+								</li>
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/14.jpg" />
+										<p class="form">完结</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">武破九荒</h4>
+										<em class="author">莫贝颜</em>
+										<p class="info">真灵大陆，天妖当世，妖孽争锋。王者长啸可震罗星辰，皇者翻手可遮覆苍穹，出身卑微的少年</p>
+										<span class="label">玄幻</span><span class="label">268万字</span>
+									</div>
+								</li>
+							</ul>
+							<div class="footer">
+								<a class="footerbtn" href="#">换一换</a>
+								<a class="footerbtn" href="#">男生频道>></a>
+							</div>
+						</section>
+						<section class="free">
+							<h3 class="title borderleft">限时免费</h3>
+							<ul class="main padding clear">
+								<li class="show">
+									<span class="freepic">
+										<img class="freeimg" src="img/15.jpg" alt="" />
+										<img class="freeicon" src="img/freetime.png" />
+									</span>
+									<p class="freefont">万古圣王</p>
+								</li>
+								<li class="show">
+									<span class="freepic">
+										<img class="freeimg" src="img/16.jpg"  alt="" />
+										<img class="freeicon" src="img/freetime.png" />
+									</span>
+									<p class="freefont">湘西巫女</p>
+								</li>
+								<li class="show">
+									<span class="freepic">
+										<img class="freeimg" src="img/17.jpg"  alt="" />
+										<img class="freeicon" src="img/freetime.png" />
+									</span>
+									<p class="freefont">五鬼传人</p>
+								</li>
+								<li class="show">
+									<span class="freepic">
+										<img class="freeimg" src="img/18.jpg"  alt="" />
+										<img class="freeicon" src="img/freetime.png" />
+									</span>
+									<p class="freefont">极品农家女</p>
+								</li>
+								<li class="show">
+									<span class="freepic">
+										<img class="freeimg" src="img/19.jpg"  alt="" />
+										<img class="freeicon" src="img/freetime.png" />
+									</span>
+									<p class="freefont">巫师之旅</p>
+								</li>
+								<li class="show">
+									<span class="freepic">
+										<img class="freeimg" src="img/20.jpg"  alt="" />
+										<img class="freeicon" src="img/freetime.png" />
+									</span>
+									<p class="freefont">捡到熊猫之后</p>
+								</li>
+							</ul>
+							<div class="footer">
+								<a href="#">更多限免佳作>></a>
+							</div>
+						</section>
+						<section class="subject">
+							<h3 class="title">精选专题
+								<sup class="up">热</sup>
+							</h3>
+							<ul class="main padding clear">
+								<li class="subshow fl">
+									<span class="subpic">
+										<img class="subimg" src="img/21.jpg" alt="" />
+									</span>
+								</li>
+								<li class="subshow fr">
+									<span class="subpic">
+										<img class="subimg" src="img/22.jpg"  alt="" />
+									</span>
+								</li>
+							</ul>
+							<div class="footer">
+								<a href="#">更多精彩专题>></a>
+							</div>
+						</section>
+						<section class="loading">
+							<ul class="main">
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/5.jpg" />
+										<p class="form">完结</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">前夫，求复婚</h4>
+										<em class="author">夜深幽</em>
+										<p class="info">他找她结一段权宜婚姻，婚内三年不层碰她，她却突然怀孕了。***初见他，他站在窗边，</p>
+										<span class="label">总裁世家</span><span class="label">263万字</span>
+									</div>
+								</li>
+								<li class="part clear">
+									<div class="img fl">
+										<img class="pic" src="img/6.jpg" />
+										<p class="form">完结</p>
+									</div>
+									<div class="font fl">
+										<h4 class="subtitle">一妃冲天，王爷请抓牢</h4>
+										<em class="author">木古首</em>
+										<p class="info">她，21世纪的天才催眠师，穿越千年成为相府备受冷落的三小姐。他，只剩一年的阳寿，灯枯油尽</p>
+										<span class="label">穿越时空</span><span class="label">古装</span><span class="label">153万字</span>
+									</div>
+								</li>
+							</ul>
+						</section>
+			    </div>
+		    <div class="content-bookshelf" id="wrapBookShelf">
+			    	<div class="bookshelf-search clear">
+						<input class="shelf-search fl" type="search" value="输入书名/作者/关键字"/>
+			    		<input class="shelf-submit fr" type="submit" value="" id="submit"/>
+			    	</div>
+			    	<ul class="bookshelf-show" id="shelfshow">
+			    		<li class="shelfshow clear">
+		    				<div class="showimg fl" href="#">
+		    					<img src="img/b1.jpg" alt="" />
+		    				</div >
+		    				<div class="showinfo fl">
+		    					<h4 class="showname">妾本惊华</h4>
+		    					<em class="showwriter">东子误</em>
+		    					<p class="showread">已读：往死里打</p>
+		    					<span class="showchapter"> 最新：完美大结局 </span>
+		    				</div>
+			    		</li>
+			    		<li class="shelfshow clear">
+		    				<div class="showimg fl" href="#">
+		    					<img src="img/b2.jpg" alt="" />
+		    				</div >
+		    				<div class="showinfo fl">
+		    					<h4 class="showname">闪婚惊爱</h4>
+		    					<em class="showwriter">心辰洛</em>
+		    					<p class="showread">已读：第3章　警局，惊鸿在瞥</p>
+		    					<span class="showchapter"> 最新：第1167章　大结局 </span>
+		    				</div>
+			    		</li>
+			    		<li class="shelfshow clear">
+		    				<div class="showimg fl" href="#">
+		    					<img src="img/b3.jpg" alt="" />
+		    				</div >
+		    				<div class="showinfo fl">
+		    					<h4 class="showname">总裁太痴情</h4>
+		    					<em class="showwriter">苹果梨</em>
+		    					<p class="showread">已读：第5章　胜利的吻</p>
+		    					<span class="showchapter"> 最新：第338章　番外二 </span>
+		    				</div>
+			    		</li>
+			    		<li class="shelfshow clear">
+		    				<div class="showimg fl" href="#">
+		    					<img src="img/b4.jpg" alt="" />
+		    				</div >
+		    				<div class="showinfo fl">
+		    					<h4 class="showname">诛仙</h4>
+		    					<em class="showwriter">云萧萧</em>
+		    					<p class="showread">已读：序章</p>
+		    					<span class="bookchapter"> 最新：新书《天影》</span>
+		    				</div>
+			    		</li>
+			    		<li class="shelfshow clear">
+		    				<div class="showimg fl" href="#">
+		    					<img src="img/b5.jpg" alt="" />
+		    				</div >
+		    				<div class="showinfo fl">
+		    					<h4 class="showname">毒医世子妃</h4>
+		    					<em class="showwriter">兰陵王</em>
+		    					<p class="showread">已读：第1章　已退为进</p>
+		    					<span class="showchapter"> 最新：790章　曲终人散 </span>
+		    				</div>
+			    		</li>
+			    		<li class="shelfshow clear">
+		    				<div class="showimg fl" href="#">
+		    					<img src="img/b6.jpg" alt="" />
+		    				</div >
+		    				<div class="showinfo fl">
+		    					<h4 class="showname">超强兵在校园</h4>
+		    					<em class="showwriter">哎若若</em>
+		    					<p class="showread">已读：第2章　一个女人，半生情缘</p>
+		    					<span class="showchapter"> 最新：第783章　大结局 </span>
+		    				</div>
+			    		</li>
+			    		<li class="shelfshow clear">
+		    				<div class="showimg fl" href="#">
+		    					<img src="img/b7.jpg" alt="" />
+		    				</div >
+		    				<div class="showinfo fl">
+		    					<h4 class="showname">兼职少奶奶</h4>
+		    					<em class="showwriter">纳兰湘湘</em>
+		    					<p class="showread">已读：第1章　这小鲜肉很诱人</p>
+		    					<span class="showchapter"> 最新：第1901章　茜茜大婚，</span>
+		    				</div>
+			    		</li>
+			    		<li class="shelfshow clear">
+		    				<div class="showimg fl" href="#">
+		    					<img src="img/b8.jpg" alt="" />
+		    				</div >
+		    				<div class="showinfo fl">
+		    					<h4 class="showname">翻雨覆云</h4>
+		    					<em class="showwriter">非午激昂</em>
+		    					<p class="showread">已读：第1章　帮打鸳鸯</p>
+		    					<span class="showchapter"> 最新：第1768章　灯枯油尽有穷时 </span>
+		    				</div>
+			    		</li>
+			    		<li class="shelfshow clear">
+		    				<div class="showimg fl" href="#">
+		    					<img src="img/b9.jpg" alt="" />
+		    				</div >
+		    				<div class="showinfo fl">
+		    					<h4 class="showname">老九门</h4>
+		    					<em class="showwriter">南派三叔</em>
+		    					<p class="showread">已读：引子</p>
+		    					<span class="showchapter"> 最新：第30章　本能与经验的交融 </span>
+		    				</div>
+			    		</li>
+			    	</ul>
+			    	<ul class="bookshelf-list" id="shelflist">
+			    		<div class="shelflist-warp clear ">
+			    			<li class="sheftlistshow">
+				    			<div class="listshow ">
+			    					<span class="listpic"><img src="img/b4.jpg" alt="" /></span>
+			    					<p class="listfont">妾本惊华</p>
+				    			</div>
+				    		</li>
+				    		<li class="sheftlistshow">
+				    			<div class="listshow  ">
+				    				<span class="listpic"><img src="img/b2.jpg" alt="" /></span>
+		    						<p class="listfont">闪婚惊爱</p>
+		    					</div>
+		    				</li>
+				    		<li class="sheftlistshow">
+				    			<div class="listshow ">
+				    				<span class="listpic "><img src="img/b3.jpg" alt="" /></span>
+		    						<p class="listfont">总裁太痴情</p>
+		    					</div>
+				    		</li>
+				    		<li class="sheftlistshow">
+				    			<div class="listshow ">
+				    				<span class="listpic"><img src="img/b4.jpg" alt="" /></span>
+		    						<p class="listfont">诛仙</p>
+		    					</div>
+				    		</li>
+				    		<li class="sheftlistshow">
+				    			<div class="listshow ">
+				    				<span class="listpic"><img src="img/b5.jpg" alt="" /></span>
+		    						<p class="listfont">毒医世子妃</p>
+		    					</div>
+			    			</li>
+				    		<li class="sheftlistshow">
+				    			<div class="listshow ">
+				    				<span class="listpic"><img src="img/b6.jpg" alt="" /></span>
+		    						<p class="listfont">超强兵在校园</p>
+		    					</div>
+				    		</li>
+				    		<li class="sheftlistshow">
+				    			<div class="listshow ">
+				    				<span class="listpic"><img src="img/b7.jpg" alt="" /></span>
+		    						<p class="listfont">兼职少奶奶</p>
+		    					</div>
+				    		</li>
+				    		<li class="sheftlistshow">
+				    			<div class="listshow ">
+				    				<span class="listpic"><img src="img/b8.jpg" alt="" /></span>
+		    						<p class="listfont">翻雨覆云</p>
+		    					</div>
+				    		</li>
+				    		<li class="sheftlistshow">
+				    			<div class="listshow ">
+				    				<span class="listpic"><img src="img/b9.jpg" alt="" /></span>
+		    						<p class="listfont">老九门</p>
+		    					</div>
+				    		</li>
+			    		</div>
+			    	</ul>
+			    </div>
+			<div class="content-picture">
+	    	</div>
+		</div>
+	</div>
+</body>
+<script type="text/javascript">
+
+	//焦点图
+	var bannerPaly = document.getElementsByClassName('banner-paly')[0];
+	var bannerLeft = bannerPaly.offsetLeft;
+	var n = 0;
+	setInterval(function(){
+		bannerPaly.style.left = n*100+'%';
+		n--;
+		if(n == -3){
+			n = 0;
+		}
+	},2000);
+	
+	//书城书架切换
+	var bookCity = document.getElementById('bookcity');
+	var bookShelf = document.getElementById('bookshelf');
+	var wrapBookCity = document.getElementById('wrapBookCity');
+	var wrapBookShelf = document.getElementById('wrapBookShelf');
+	
+	bookShelf.onclick = function(){
+		wrapBookCity.style.display = 'none';
+		wrapBookShelf.style.display = 'block';
+		bookCity.className = '';
+		bookShelf.className = 'active';
+	}
+	
+	bookCity.onclick = function(){
+		wrapBookShelf.style.display = 'none';
+		wrapBookCity.style.display = 'block';
+		bookShelf.className = '';
+		bookCity.className = 'active';
+	}
+	
+	//书架列表形式切换
+	var oSubmit = document.getElementById('submit');
+	var shelfShow = document.getElementById('shelfshow');
+	var shelfList = document.getElementById('shelflist');
+	var onOff = true;
+	oSubmit.onclick = function(){
+		if(onOff){
+			oSubmit.style.backgroundImage = "url(img/icon3.png)";
+			shelfShow.style.display = 'none';
+			shelfList.style.display = 'block';
+		}else{
+			oSubmit.style.backgroundImage = "url(img/icon1.png)";
+			shelfList.style.display = 'none';
+			shelfShow.style.display = 'block';
+		}
+		onOff = !onOff;
+	}
+</script>
+</html>
