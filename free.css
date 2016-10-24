@@ -1,0 +1,164 @@
+/*css document*/
+@charset "utf-8";
+.free-zone{
+	width: 100%;
+	height: 100%;
+}
+.free-header{
+	width: 100%;
+	height: 45px;
+	line-height: 45px;
+	border-bottom: 1px solid #DDDDDD;
+	background-color: #efeff0;
+}
+.free-header a{
+	display: block;
+	width: 42px;
+	height: 44px;
+}
+.free-header .free-return{
+	background: url(../img/icon4.png) no-repeat center; 
+	background-size: 10px 16px ;
+}
+.free-header .free-home{
+	background: url(../img/home.png) no-repeat center; 
+	background-size: 16px 16px ;
+}
+.free-main{
+	background-color: #FFFFFF;
+}
+.free-main section{
+	border-bottom: 10px solid #f5f5f5;
+}
+/*免费排行*/
+.free-title{
+	widows: 100%;
+	height: 60px;
+	line-height: 60px;
+	padding: 10px 14px;
+	border-left: 6px solid #ffab18;
+	border-bottom: 1px solid #f0f0f0;
+}
+.title-subtitle{
+	font-weight: 100;
+	margin: 0;
+}
+.title-explain{
+	margin-top: 5px;
+	font-size: 12px;
+	color: #a3a3a3;
+}
+.free-list{
+	width: 100%;
+	padding: 13px 14px 5px 14px;
+}
+.list-li{
+	display: block;
+	float: left;
+	width: 33.33%;
+	height: 140px;
+	margin-bottom: 8px;
+}
+.list-pic{
+	display: block;
+	width: 100%;
+	height: 114px;
+}
+.list-img{
+	display: inline-block;
+	width: 95px;
+	height: 114px;
+	border: 1px solid #F0F0F0;
+    box-shadow: 0px 6px 5px -3px #aaa;
+}
+.list-font{
+	width: 100%;
+	height: 18px;
+	font-size: 12px;
+	margin-top: 6px;
+}
+.list-info{
+	display: inline-block;
+	width: 95px;
+	height: 18px;
+	font-size: 12px;
+}
+.more{
+	display: block;
+    border-top: 1px solid #f0f0f0;
+    text-align: center;
+    font-size: 14px;
+    padding: 10px 0;
+    color: #333;
+    text-decoration: none;
+} 
+/*全站最热*/
+.free-hot{
+	
+} 
+.free-list{
+	
+}
+.hot-li{
+	padding: 13px 14px;
+	border-bottom: 1px solid #F0F0F0;
+}
+.hot-pic{
+	width: 102px;
+	height: 136px;
+	margin-right: 15px;
+	border: 1px solid #f0f0f0;
+	border-bottom: none;
+    box-shadow: 0px 6px 5px -3px #aaa;
+}
+.hot-font{
+	width: calc(100% - 117px);
+	padding-top: 15px;
+}
+.hot-subtitle{
+    margin-bottom: 4px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+.hot-info{
+	margin: 10px 0 10px 0;
+    font-size: 13px;
+    color: #666;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.hot-writer{
+	font-size: 12px;
+    color: #666;
+}
+.hot-label{
+	width: 60px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	font-size: 10px;
+    float: right;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    -webkit-transform: scale(.8);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+/*免费名作*/ 
+.free-masterpieces{
+	
+}
+/*新书上线*/
+.free-newbook{
+	
+}
+.height{
+	height: 40px;
+	line-height: 40px;
+	font-size: 16px;
+}
