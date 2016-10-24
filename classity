@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>classify</title>
+		<link rel="stylesheet" type="text/css" href="css/mui.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/pulic.css"/>
+		<link rel="stylesheet" type="text/css" href="css/free.css" />
+	    <script src="js/mui.min.js"></script>
+	    <script type="text/javascript"src="js/index.js" ></script>
+	    <script type="text/javascript" charset="utf-8">
+      		mui.init();
+    	</script>
+	</head>
+	<body>
+	</body>
+</html>
